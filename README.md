@@ -154,7 +154,7 @@ All experiments were conducted in a Jupyter Notebook environment to allow intera
 
 ## 📄 License
 
-MIT License. Feel free to use and modify.
+MIT License.
 
 ---
 
