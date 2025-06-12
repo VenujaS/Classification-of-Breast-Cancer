@@ -152,8 +152,13 @@ All experiments were conducted in a Jupyter Notebook environment to allow intera
 
 ---
 
-## 👩‍💻 Author
+## 📄 License
 
-- **Venuja Shanmugarajah**  
+MIT License. Feel free to use and modify.
 
 ---
+
+## 👩‍💻 Author
+
+- **Venuja Shanmugarajah**  | Sri Lanka 🇱🇰  
+  💬 Let's connect: [LinkedIn](https://www.linkedin.com/in/venuja-shanmugarajah-432aa41ba)
